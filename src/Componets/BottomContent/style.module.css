@@ -1,0 +1,7 @@
+.BottomContent{
+    width: 98%;
+    height: 41vh;
+    margin: 0.3rem auto;
+    display: flex;
+    overflow: hidden;
+}

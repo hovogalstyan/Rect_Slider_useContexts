@@ -1,0 +1,7 @@
+.SlidImg{
+    width: 90%;
+    height: 55vh;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}

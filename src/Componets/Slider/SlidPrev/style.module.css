@@ -1,0 +1,33 @@
+.Prev{
+    font-size: 40px;
+    color: white;
+    cursor: pointer;
+    animation: alternatePrev 1s linear infinite;
+}
+
+@keyframes alternatePrev {
+    0%{
+	   color: white;
+    }
+    15%{
+	   color: teal;
+    }
+    30%{
+	   color: red;
+    }
+    45%{
+	   color: blue;
+    }
+    60%{
+	   color: chocolate;
+    }
+    75%{
+	   color: fuchsia;
+    }
+    90%{
+	   color: olive;
+    }
+    100%{
+	   color: sandybrown;
+    }
+}

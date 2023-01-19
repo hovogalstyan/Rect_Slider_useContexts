@@ -1,0 +1,8 @@
+.Slider__Project{
+    width: 70%;
+    height: 98vh;
+    background: rgb(0,0,0,0.2);
+    backdrop-filter: blur(30px);
+    margin: 0 auto;
+    padding: 0.2rem 0;
+}
